@@ -96,4 +96,3 @@ function assessment(userName){
   result = result.replaceAll('{userName}',userName);
   return result;
 }
-
